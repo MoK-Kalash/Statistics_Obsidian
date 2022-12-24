@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Template test.md",
+                "file": "MeEB/GameJam Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Template test.md",
+                "file": "MeEB/GameJam Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Template test.md",
+                "file": "MeEB/GameJam Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Template test.md"
+                "file": "MeEB/GameJam Lists.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "6d4fbf990e609cf9",
   "lastOpenFiles": [
+    "Untitled/Template test.md",
     "MeEB/GameJam Lists.md",
     "Untitled/Untitled 3.md",
     "Templates/Current Template.md",
@@ -164,7 +165,6 @@
     "Untitled/Untitled 1.md",
     "Untitled/Untitled 2.md",
     "Untitled/Word.md",
-    "Untitled/Template test.md",
     "Word.md",
     "Untitled 2.md"
   ]
