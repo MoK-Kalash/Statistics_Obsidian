@@ -52,7 +52,7 @@ if (tag.startsWith('📕')) {
 	structName = "[[0406 - Struct_Documentation_Body]]";
 	dest = "03 - Content";
 	prefix = "";
-} else if (tag.startsWith('🗺')) {
+} else if (tag.startsWith('🗺')) { 
 	structName = "[[0409 - Struct_Secondary_Category_Body]]";
 	dest = "02 - Secondary Categories";
 	prefix = "02 - ";
