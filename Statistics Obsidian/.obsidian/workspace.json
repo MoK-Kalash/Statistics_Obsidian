@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8dbb09f968165d",
+        "id": "445b7f5be0334254",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4fbf990e609cf9",
+            "id": "f3bf9ca192f6025f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MeEB/GameJam Lists.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MeEB/GameJam Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MeEB/GameJam Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MeEB/GameJam Lists.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,20 +144,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "6d4fbf990e609cf9",
+  "active": "f3bf9ca192f6025f",
   "lastOpenFiles": [
-    "Untitled/Template test.md",
-    "MeEB/GameJam Lists.md",
-    "Untitled/Untitled 3.md",
-    "Templates/Current Template.md",
-    "Untitled/Untitled.md",
-    "Untitled/Untitled 1.md",
-    "Untitled/Untitled 2.md",
-    "Untitled/Word.md",
-    "Word.md",
-    "Untitled 2.md"
+    "Statistics_Theory/Sets.md",
+    "Statistics_Theory/Complement.md",
+    "Excalidraw/Complements.excalidraw.md",
+    "Excalidraw/Sample Space.excalidraw.md",
+    "Statistics_Theory/Equally Likely Outcomes.md",
+    "Statistics_Theory/Event.md",
+    "Statistics_Theory/Sample Space.md",
+    "Statistics_Theory/Probability.md",
+    "Statistics_Theory/Expected Value.md",
+    "Statistics_Theory/Subjective Probability.md"
   ]
 }

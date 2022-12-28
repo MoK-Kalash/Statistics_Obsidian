@@ -12,6 +12,10 @@
     {
       "folder": "Untitled",
       "template": "Templates/Current Template.md"
+    },
+    {
+      "folder": "Statistics_Theory",
+      "template": "Templates/Current Template.md"
     }
   ],
   "syntax_highlighting": true,
