@@ -1,10 +1,10 @@
 
 ---
-Creation Date: <% tp.file.creation_date() %>
-Last Modified: <% tp.file.last_modified_date() %>
+Creation Date: 2023-01-03 15:37
+Last Modified: 2023-01-03 15:37
 Status:
 Tags:
-Extra Plugins Used:
+Tools Used: 
 Author: Mido Kalash
 ---
 
@@ -40,5 +40,5 @@ Write a short example here
 
 
 
-Created: <% tp.file.creation_date() %>
-Last Modified: <% tp.file.last_modified_date() %>
+Created: 2023-01-03 15:37
+Last Modified: 2023-01-03 15:37

@@ -2,8 +2,9 @@
 ---
 Creation Date: 2022-12-28 15:37
 Last Modified: 2022-12-28 15:37
-Status:
-Tags: 
+Status: Finished.
+Tags: #SetTheory #Complement 
+Extra Plugins Used: #excalidraw .
 Author: Mido Kalash
 ---
 

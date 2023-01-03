@@ -2,8 +2,9 @@
 ---
 Creation Date: 2022-12-28 15:18
 Last Modified: 2022-12-28 15:18
-Status:
-Tags: 
+Status: Finished.
+Tags: #EquallyLikely #Probability 
+Extra Plugins Used: NaN.
 Author: Mido Kalash
 ---
 
@@ -47,6 +48,7 @@ E = {R}
 $$
 	P(E)= \frac{1}{3} 
 $$
+
 Given that the person chooses a marble randomly, the chances of picking a red one is 1/3. 
 
 

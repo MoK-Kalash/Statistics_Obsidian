@@ -2,8 +2,9 @@
 ---
 Creation Date: 2022-12-28 13:34
 Last Modified: 2022-12-28 13:34
-Status:
-Tags: 
+Status: Finished.
+Tags: #Probability #SampleSpace 
+Extra Plugins Used: #excalidraw 
 Author: Mido Kalash
 ---
 

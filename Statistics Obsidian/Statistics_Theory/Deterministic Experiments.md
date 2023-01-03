@@ -2,8 +2,9 @@
 ---
 Creation Date: 2022-12-28 13:21
 Last Modified: 2022-12-28 13:21
-Status:
-Tags: 
+Status: Finished.
+Tags: #Experiment #Probability 
+Extra Plugins Used: NaN.
 Author: Mido Kalash
 ---
 
